@@ -30,6 +30,23 @@ Then I checkedout the develop branch and called rebase to move C1, C2 after C4 o
 
 ![Activity 5 Screenshot 2](screenshots/activity5_rebase_sc1.png "Activity 5 Screenshot 2")  as shown C1 and C2 commits now go after C4
 
-**LINK TO EP REPO**
+**Activity 6 LINK TO EP REPO**
 
 https://github.com/haoranjaycewang/ECE444-F2022-EP
+
+
+**Activity 7**
+Screenshots of rebase command and outputs and updated website homepage with new title:
+
+![Activity 7 Screenshot 1](screenshots/Activity7_sc.png "Activity 7 Screenshot 1")
+
+![Activity 7 Screenshot 2](screenshots/Activity7_sc2.png "Activity 7 Screenshot 2")
+
+
+
+**Activity 8**
+Screenshots of new tab and contents + rebase command for develop branch
+
+![Activity 8 Screenshot 1](screenshots/activity8_sc1.png "Activity 8 Screenshot 1")
+
+![Activity 8 Screenshot 2](screenshots/activity8_sc2.png "Activity 8 Screenshot 2")
